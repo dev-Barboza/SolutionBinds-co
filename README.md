@@ -13,6 +13,8 @@ Este é um desafio para Front-end Developer.
 
 
 ## :rocket: Rodando o projeto
+Você pode acessar o projeto online através do link: https://pokedexbinds.netlify.app/
+
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 ```
 Clone o repositório
